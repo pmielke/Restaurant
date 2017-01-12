@@ -21,7 +21,7 @@ Expected meal orders: Restaurant A (4 vegetarian + 36 others), Restaurant B (1 v
 
 # OO Design
 
-![alt text]( "Overview Diagram")
+![alt text](https://github.com/pmielke/Restaurant/raw/master/classdiagram.png "Overview Diagram")
 
 ## Class descriptions
 
@@ -47,7 +47,7 @@ Container class for a group of restaurants
 
 # Implementation
 
-The problem is implemented in Ruby (see restaurants.rb). Test cases are in test.rb.
+The problem is implemented in Ruby (see `restaurants.rb`). Test cases are in `test.rb`.
 
 ## Sample
 
